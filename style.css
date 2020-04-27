@@ -135,7 +135,7 @@
     height: 20px;
 }
 .ex-12-button:hover .ex-12-top-white {
-  animation: ZoccoloDiGnu 1s linear;
+  animation: ZoccoloDiGnu 1s linear infinite;
 }
 @keyframes ZoccoloDiGnu {
   0%{
@@ -177,7 +177,7 @@
   }
 }
 .ex-12-button:hover .ex-12-bottom-white {
-  animation: VertebraDiMoffetta 1s linear;
+  animation: VertebraDiMoffetta 1s linear infinite;
 }
 @keyframes VertebraDiMoffetta {
   0% {
